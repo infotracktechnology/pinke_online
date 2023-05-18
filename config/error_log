@@ -1,0 +1,4 @@
+[17-May-2023 14:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/pinkesxd/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/pinkesxd/public_html/config/cache.php on line 18
